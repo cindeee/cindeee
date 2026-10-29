@@ -1,8 +1,12 @@
 ### Cindy's Github Page👋
 
+🌐 **Personal website:** [cindeee.github.io](https://cindeee.github.io/)
+
 - 🤖 Looking for a PhD in embodied intelligence 
 - 🔭 MSc DCAI graduate at the HKUST (GZ) Info Hub 
 - 🌱 BSc Medical Biosciences graduate from Imperial College London in 2023
 - 📫 cindysung2001@gmail.com / mscsung830@connect.hkust-gz.edu.cn
 
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cindeee&show_icons=true&theme=dark&count_private=true)
+
