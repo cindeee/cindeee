@@ -1,7 +1,5 @@
 ### Cindy's Github Page👋
 
-🌐 **Personal website:** [cindeee.github.io](https://cindeee.github.io/)
-
 - 🤖 Looking for a PhD in embodied intelligence 
 - 🔭 MSc DCAI graduate at the HKUST (GZ) Info Hub 
 - 🌱 BSc Medical Biosciences graduate from Imperial College London in 2023
